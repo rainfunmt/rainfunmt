@@ -87,6 +87,15 @@ I'm currently learning Claude Code and exploring how AI can work alongside my la
 **學習中**
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-%E5%88%9D%E5%AD%B8%E4%B8%AD-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-%E5%AD%B8%E7%BF%92%E4%B8%AD-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-%E5%AD%B8%E7%BF%92%E4%B8%AD-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-%E5%AD%B8%E7%BF%92%E4%B8%AD-34A853?style=for-the-badge&logo=google&logoColor=white)
+
+## 🧪 我用 AI 做過的事
+
+- 📰 **AI 世界大事日報**：Claude Code ＋ Gmail 自動寄送 → [看專案說明](https://github.com/rainfunmt/morning-brief-mailer-simple)
+- 📄 用 NotebookLM 整理客戶規格書，快速找出重點
+- 🇯🇵 用 AI 輔助日文商業書信
 
 ## 🌱 正在學 & 想做的事
 
