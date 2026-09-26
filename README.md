@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Noto+Sans+TC&weight=600&size=24&duration=3500&pause=1000&color=E4405F&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Maggie+%F0%9F%91%8B;%E8%A6%BA%E5%BE%97%E6%80%AA%E6%80%AA%E7%9A%84%EF%BC%8C%E5%B0%B1%E8%BF%BD%E5%95%8F%E5%88%B0%E5%BA%95;%E6%B0%97%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%82%89%E3%80%81%E3%81%A8%E3%81%93%E3%81%A8%E3%82%93%E7%A2%BA%E3%81%8B%E3%82%81%E3%82%8B;If+something+feels+off%2C+I+ask+why." alt="覺得怪怪的，就追問到底" />
+<img src="https://readme-typing-svg.demolab.com/?font=Noto+Sans+TC&weight=600&size=24&duration=3500&pause=1000&color=E4405F&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Maggie+%F0%9F%99%8C;%E7%9B%A1%E5%8A%9B%E8%80%8C%E7%82%BA%EF%BC%8C%E5%85%B6%E9%A4%98%E4%BA%A4%E7%B5%A6%E5%A4%A9%EF%BC%8C%E7%84%B6%E5%BE%8C%E7%AC%91%E8%91%97%E5%89%8D%E9%80%B2;%E4%BA%BA%E4%BA%8B%E3%82%92%E5%B0%BD%E3%81%8F%E3%81%97%E3%81%A6%E5%A4%A9%E5%91%BD%E3%82%92%E5%BE%85%E3%81%A4;Do+your+best%2C+and+let+the+rest+unfold." alt="盡力而為，其餘交給天，然後笑著前進" />
 
 **日本線業務 ｜ 運動用品 OEM 廠**
 
-中文 · English · 日本語
+中文 · 英語 · 日語
 
 </div>
 
