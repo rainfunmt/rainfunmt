@@ -97,8 +97,12 @@ I'm currently learning Claude Code and exploring how AI can work alongside my la
 
 ## 📊 GitHub 統計
 
-![Followers](https://img.shields.io/github/followers/rainfunmt?style=for-the-badge&logo=github&label=Followers)
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frainfunmt&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github)
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rainfunmt&theme=default" height="180" alt="GitHub 統計" />
+<img src="https://streak-stats.demolab.com/?user=rainfunmt&hide_border=true&ring=E4405F&fire=F77737&currStreakLabel=E4405F&currStreakNum=E4405F" height="180" alt="連續貢獻天數" />
+
+</div>
 
 ## ☕ 工作之外的我
 
