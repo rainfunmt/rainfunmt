@@ -125,7 +125,6 @@ I'm currently learning Claude Code and exploring how AI can work alongside my la
 有合作想法，或只是想用中文、日文、英文聊聊，都歡迎找我 👇
 
 [![GitHub](https://img.shields.io/badge/GitHub-rainfunmt-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rainfunmt)
-[![Instagram](https://img.shields.io/badge/Instagram-__t.t__fang-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_t.t_fang/)
 
 <div align="center">
 
